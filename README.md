@@ -1,2 +1,2 @@
-# Arora. 
+# Arora
 Arota
